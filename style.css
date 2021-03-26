@@ -3,11 +3,12 @@
 }
 
 .button{
-    background-color: #21B573;
+    background-color: #21B573 !important;
     color: white;
     padding: 12px 25px;
-    border-radius: 25px;
+    border-radius: 25px !important;
     border: none;
+    border-color:  #21B573 !important;
 }
 
 .navbar-nav li{
@@ -50,13 +51,13 @@ header{
     margin-left: -15px;
 }
 
-.card .buttonc{
+.card .button{
     background-color: #21B573;
     color: white;
     padding: 7px 20px;
     border-radius: 25px;
     border: none;
-    margin-left: -16px;
+    margin-left: -19px;
 }
 
 .testimonial{
