@@ -60,6 +60,12 @@ header{
     margin-left: -19px;
 }
 
+
+.card:hover{
+    box-shadow: 1px 1px 1px rgb(121, 121, 121) !important;
+    cursor: pointer;
+}
+
 .testimonial{
     padding: 70px;
 }
